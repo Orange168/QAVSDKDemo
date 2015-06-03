@@ -112,8 +112,8 @@ public class StartContextActivity extends ListActivity {
 	protected void onListItemClick(ListView l, View v, int position, long id) {
 		if (!mQavsdkControl.hasAVContext()) {
 			mLoginErrorCode = mQavsdkControl.startContext(
-					Util.getIdentifierList(this).get(position), Util
-							.getUserSigList(this).get(position));
+					Util.getIdentifierList(this).get(position),
+					Util.getUserSigList(this).get(position));
 
 			if (mLoginErrorCode != AVConstants.AV_ERROR_OK) {
 				showDialog(DIALOG_LOGIN_ERROR);

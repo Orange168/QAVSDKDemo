@@ -11,9 +11,15 @@
         android:layout_height="match_parent"
         layout="@layout/qav_video_layer_ui" />
 
+    <!--android:layout_alignParentBottom="true"-->
+    <ToggleButton
+        android:id="@+id/wifi_control"
+        android:layout_width="wrap_content"
+        android:onClick="onClick"
+        android:layout_alignParentTop="true"
+        android:layout_height="wrap_content" />
     <include
         android:id="@+id/qav_bottom_bar"
-        android:layout_alignParentBottom="true"
         layout="@layout/qav_bottom_bar" />
 
 </RelativeLayout>

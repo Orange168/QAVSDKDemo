@@ -21,7 +21,7 @@ import android.util.Log;
 class AVContextControl {
 	private static final String TAG = "AvContextControl";
 	private static final String APP_ID_TEXT = "1104620500";
-	private static final String UID_TYPE = "107";
+	private static final String UID_TYPE = "0";
 	private boolean mIsInStartContext = false;
 	private boolean mIsInCloseContext = false;
 	private Context mContext;

@@ -10,6 +10,8 @@ import android.content.Context;
 import android.content.Intent;
 import android.content.IntentFilter;
 import android.hardware.SensorManager;
+import android.net.wifi.WifiConfiguration;
+import android.net.wifi.WifiManager;
 import android.os.Bundle;
 import android.text.TextUtils;
 import android.util.Log;
@@ -29,6 +31,9 @@ import com.tencent.avsdk.QavsdkApplication;
 import com.tencent.avsdk.R;
 import com.tencent.avsdk.Util;
 import com.tencent.avsdk.control.QavsdkControl;
+
+import java.lang.reflect.InvocationTargetException;
+import java.lang.reflect.Method;
 
 public class AvActivity extends Activity implements OnClickListener {
 	private static final String TAG = "AvActivity";
@@ -197,10 +202,13 @@ public class AvActivity extends Activity implements OnClickListener {
 		} else {
 			finish();
 		}
-		
+		initWifiConfigure() ;
 		registerOrientationListener();	
 		Log.e(TAG, "=Test=WL_DEBUG AvActivity onCreate");
+
 	}
+
+
 
 	@Override
 	public void onResume() {
@@ -271,9 +279,32 @@ public class AvActivity extends Activity implements OnClickListener {
 				showDialog(isFront ? DIALOG_SWITCH_BACK_CAMERA_FAILED : DIALOG_SWITCH_FRONT_CAMERA_FAILED);
 			}
 			break;
+			case R.id.wifi_control:
+				switchWifiSSID();
+				break;
 		default:
 			break;
 		}
+	}
+
+	private Boolean wifiFlag = false ;
+	private WifiManager wifiManager;
+	WifiConfiguration apConfig = null ;
+
+	private void initWifiConfigure() {
+		apConfig = new WifiConfiguration();
+		wifiManager = (WifiManager) getSystemService(Context.WIFI_SERVICE);
+	}
+
+	private void switchWifiSSID() {
+
+		apConfig.SSID = (wifiFlag? "\"ANL-DEV-TEAM\"" :"\"ANL-GUEST\"");
+		apConfig.preSharedKey= (wifiFlag? "\"20131017\"" :"\"075586503590\"");
+		apConfig.status = WifiConfiguration.Status.ENABLED;
+		int wcgID = wifiManager.addNetwork(apConfig) ;
+		System.out.println("connect success "+wifiManager.enableNetwork(wcgID,true));
+		wifiFlag = ! wifiFlag ;
+
 	}
 
 	@Override
@@ -393,7 +424,9 @@ public class AvActivity extends Activity implements OnClickListener {
 			button.setText(R.string.audio_switch_to_headset_mode_acc_txt);
 		}
 	}
-	
+
+
+
 	class VideoOrientationEventListener extends OrientationEventListener {
 		
 		boolean mbIsTablet = false;	
