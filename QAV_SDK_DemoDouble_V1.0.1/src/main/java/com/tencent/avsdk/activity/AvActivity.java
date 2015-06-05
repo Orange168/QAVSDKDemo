@@ -1,6 +1,5 @@
 package com.tencent.avsdk.activity;
 
-import imsdk.ac;
 import android.app.Activity;
 import android.app.AlertDialog;
 import android.app.Dialog;
@@ -29,11 +28,8 @@ import com.tencent.av.utils.PhoneStatusTools;
 import com.tencent.avsdk.MyCheckable;
 import com.tencent.avsdk.QavsdkApplication;
 import com.tencent.avsdk.R;
-import com.tencent.avsdk.Util;
+import com.tencent.avsdk.util.Util;
 import com.tencent.avsdk.control.QavsdkControl;
-
-import java.lang.reflect.InvocationTargetException;
-import java.lang.reflect.Method;
 
 public class AvActivity extends Activity implements OnClickListener {
 	private static final String TAG = "AvActivity";
@@ -202,8 +198,7 @@ public class AvActivity extends Activity implements OnClickListener {
 		} else {
 			finish();
 		}
-		initWifiConfigure() ;
-		registerOrientationListener();	
+		registerOrientationListener();
 		Log.e(TAG, "=Test=WL_DEBUG AvActivity onCreate");
 
 	}
@@ -279,33 +274,12 @@ public class AvActivity extends Activity implements OnClickListener {
 				showDialog(isFront ? DIALOG_SWITCH_BACK_CAMERA_FAILED : DIALOG_SWITCH_FRONT_CAMERA_FAILED);
 			}
 			break;
-			case R.id.wifi_control:
-				switchWifiSSID();
-				break;
+
 		default:
 			break;
 		}
 	}
 
-	private Boolean wifiFlag = false ;
-	private WifiManager wifiManager;
-	WifiConfiguration apConfig = null ;
-
-	private void initWifiConfigure() {
-		apConfig = new WifiConfiguration();
-		wifiManager = (WifiManager) getSystemService(Context.WIFI_SERVICE);
-	}
-
-	private void switchWifiSSID() {
-
-		apConfig.SSID = (wifiFlag? "\"ANL-DEV-TEAM\"" :"\"ANL-GUEST\"");
-		apConfig.preSharedKey= (wifiFlag? "\"20131017\"" :"\"075586503590\"");
-		apConfig.status = WifiConfiguration.Status.ENABLED;
-		int wcgID = wifiManager.addNetwork(apConfig) ;
-		System.out.println("connect success "+wifiManager.enableNetwork(wcgID,true));
-		wifiFlag = ! wifiFlag ;
-
-	}
 
 	@Override
 	protected Dialog onCreateDialog(int id) {

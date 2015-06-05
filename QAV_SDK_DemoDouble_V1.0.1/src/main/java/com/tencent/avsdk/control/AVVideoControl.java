@@ -5,7 +5,7 @@ import com.tencent.av.sdk.AVVideoCtrl;
 import com.tencent.av.sdk.AVVideoCtrl.EnableCameraCompleteCallback;
 import com.tencent.av.sdk.AVVideoCtrl.SwitchCameraCompleteCallback;
 import com.tencent.avsdk.QavsdkApplication;
-import com.tencent.avsdk.Util;
+import com.tencent.avsdk.util.Util;
 
 import android.content.Context;
 import android.content.Intent;

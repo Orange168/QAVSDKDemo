@@ -3,7 +3,7 @@ package com.tencent.avsdk.control;
 import com.tencent.av.sdk.AVAudioCtrl;
 import com.tencent.av.sdk.AVAudioCtrl.Delegate;
 import com.tencent.avsdk.QavsdkApplication;
-import com.tencent.avsdk.Util;
+import com.tencent.avsdk.util.Util;
 
 import android.content.Context;
 import android.content.Intent;

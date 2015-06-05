@@ -11,6 +11,8 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1" />
+            <option value="$PROJECT_DIR$/YXB" />
+            <option value="$PROJECT_DIR$/easemob_chatUIDemo" />
           </set>
         </option>
       </GradleProjectSettings>

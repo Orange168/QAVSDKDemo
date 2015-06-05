@@ -1,14 +1,11 @@
 package com.tencent.avsdk.control;
 
-import java.util.ArrayList;
-
 import android.content.Context;
 import android.content.Intent;
 import android.graphics.Bitmap;
 import android.graphics.Color;
 import android.graphics.PointF;
 import android.graphics.Rect;
-import android.os.Build;
 import android.util.Log;
 import android.view.GestureDetector;
 import android.view.MotionEvent;
@@ -25,11 +22,10 @@ import com.tencent.av.opengl.ui.GLView;
 import com.tencent.av.opengl.ui.GLViewGroup;
 import com.tencent.av.opengl.utils.Utils;
 import com.tencent.av.sdk.AVConstants;
-import com.tencent.av.sdk.AVVideoCtrl;
 import com.tencent.av.utils.QLog;
 import com.tencent.avsdk.QavsdkApplication;
 import com.tencent.avsdk.R;
-import com.tencent.avsdk.Util;
+import com.tencent.avsdk.util.Util;
 
 public class AVUIControl extends GLViewGroup {
 	static final String TAG = "VideoLayerUI";

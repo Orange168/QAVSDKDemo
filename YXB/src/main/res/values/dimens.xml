@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- 易孝宝字体大小 -->
+    <dimen name="yxb_text_size_larger">22sp</dimen>
+    <dimen name="yxb_text_size_large">18sp</dimen>
+    <dimen name="yxb_text_size_medium">15sp</dimen>
+    <dimen name="yxb_text_size_small">12sp</dimen>
+    <dimen name="yxb_text_size_smaller">10sp</dimen>
+</resources>

@@ -7,6 +7,7 @@ import com.tencent.avsdk.control.QavsdkControl;
 import com.tencent.openqq.IMBaseApplication;
 
 public class QavsdkApplication extends IMBaseApplication {
+
 	private static final String TAG = "QavsdkApplication";
 	private QavsdkControl mQavsdkControl = null;
 

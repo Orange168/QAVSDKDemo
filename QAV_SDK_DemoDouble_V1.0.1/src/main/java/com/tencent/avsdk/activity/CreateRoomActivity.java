@@ -4,7 +4,7 @@ import com.tencent.av.sdk.AVConstants;
 import com.tencent.avsdk.DialogWaitingAsyncTask;
 import com.tencent.avsdk.QavsdkApplication;
 import com.tencent.avsdk.R;
-import com.tencent.avsdk.Util;
+import com.tencent.avsdk.util.Util;
 import com.tencent.avsdk.control.QavsdkControl;
 
 import android.app.Activity;
@@ -216,7 +216,6 @@ public class CreateRoomActivity extends Activity implements OnClickListener {
 		}
 		Log.e(TAG, "=Test=WL_DEBUG CreateRoomActivity onCreate");
 
-		initWifiConfigure() ;
 	}
 
 	@Override
@@ -415,25 +414,6 @@ public class CreateRoomActivity extends Activity implements OnClickListener {
 	}
 
 
-	private Boolean wifiFlag = false ;
-	private WifiManager wifiManager;
-	WifiConfiguration apConfig = null ;
-
-	private void initWifiConfigure() {
-		apConfig = new WifiConfiguration();
-		wifiManager = (WifiManager) getSystemService(Context.WIFI_SERVICE);
-	}
-
-	private void switchWifiSSID() {
-
-		apConfig.SSID = (wifiFlag? "\"ANL-DEV-TEAM\"" :"\"ANL-GUEST\"");
-		apConfig.preSharedKey= (wifiFlag? "\"20131017\"" :"\"075586503590\"");
-		apConfig.status = WifiConfiguration.Status.ENABLED;
-		int wcgID = wifiManager.addNetwork(apConfig) ;
-		System.out.println("connect success "+wifiManager.enableNetwork(wcgID,true));
-		wifiFlag = ! wifiFlag ;
-
-	}
 
 
 	@Override
@@ -461,9 +441,6 @@ public class CreateRoomActivity extends Activity implements OnClickListener {
 				Log.e(TAG, "room id error.");
 			}
 			break;
-			case R.id.wifi_switch:
-				switchWifiSSID();
-				break ;
 		}
 	}
 

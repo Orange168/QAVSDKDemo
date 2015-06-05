@@ -3,10 +3,10 @@ package com.tencent.avsdk.activity;
 import java.util.ArrayList;
 
 import com.tencent.av.sdk.AVConstants;
-import com.tencent.avsdk.LogcatHelper;
+import com.tencent.avsdk.util.LogcatHelper;
 import com.tencent.avsdk.QavsdkApplication;
 import com.tencent.avsdk.R;
-import com.tencent.avsdk.Util;
+import com.tencent.avsdk.util.Util;
 import com.tencent.avsdk.control.QavsdkControl;
 
 import android.os.Bundle;
@@ -214,7 +214,7 @@ public class StartContextActivity extends ListActivity {
 		runOnUiThread(new Runnable() {			
 			@Override
 			public void run() {
-				// TODO Auto-generated method stub
+
 				Util.switchWaitingDialog(ctx, mDialogLogin, DIALOG_LOGIN,
 						mQavsdkControl.getIsInStartContext());
 				Util.switchWaitingDialog(ctx, mDialogLogout, DIALOG_LOGOUT,

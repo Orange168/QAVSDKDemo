@@ -4,6 +4,8 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/QAVSDKDemoDouble1.0.1.iml" filepath="$PROJECT_DIR$/QAVSDKDemoDouble1.0.1.iml" />
       <module fileurl="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/QAV_SDK_DemoDouble_V1.0.1.iml" filepath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/QAV_SDK_DemoDouble_V1.0.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/YXB/YXB.iml" filepath="$PROJECT_DIR$/YXB/YXB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easemob_chatUIDemo/easemob_chatUIDemo.iml" filepath="$PROJECT_DIR$/easemob_chatUIDemo/easemob_chatUIDemo.iml" />
     </modules>
   </component>
 </project>

@@ -5,7 +5,7 @@ import com.tencent.av.sdk.AVContext;
 import com.tencent.av.sdk.AVRoom;
 import com.tencent.av.sdk.AVRoomPair;
 import com.tencent.avsdk.QavsdkApplication;
-import com.tencent.avsdk.Util;
+import com.tencent.avsdk.util.Util;
 
 import android.content.Context;
 import android.content.Intent;

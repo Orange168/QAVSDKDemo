@@ -7,12 +7,8 @@ import com.tencent.av.sdk.AVConstants;
 import com.tencent.av.sdk.AVContext;
 import com.tencent.av.sdk.AVRoom;
 import com.tencent.avsdk.QavsdkApplication;
-import com.tencent.avsdk.Util;
-import com.tencent.openqq.IMAuthListener;
-import com.tencent.openqq.IMError;
+import com.tencent.avsdk.util.Util;
 import com.tencent.openqq.IMSdkInt;
-import com.tencent.openqq.IMStatus;
-import com.tencent.openqq.IMUserId;
 
 import android.content.Context;
 import android.content.Intent;
@@ -20,8 +16,8 @@ import android.util.Log;
 
 class AVContextControl {
 	private static final String TAG = "AvContextControl";
-	private static final String APP_ID_TEXT = "1104620500";
-	private static final String UID_TYPE = "0";
+	private static final String APP_ID_TEXT = "1400000353";
+	private static final String UID_TYPE = "361";
 	private boolean mIsInStartContext = false;
 	private boolean mIsInCloseContext = false;
 	private Context mContext;
@@ -77,6 +73,8 @@ class AVContextControl {
 	 * @param usersig
 	 *            用户身份的校验信息
 	 */
+
+
 	int startContext(String identifier, String usersig) {
 		int result = AVConstants.AV_ERROR_OK;
 

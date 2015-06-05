@@ -3,7 +3,7 @@ package com.tencent.avsdk.activity;
 import java.util.ArrayList;
 
 import com.tencent.avsdk.R;
-import com.tencent.avsdk.Util;
+import com.tencent.avsdk.util.Util;
 
 import android.app.Activity;
 import android.os.Bundle;
