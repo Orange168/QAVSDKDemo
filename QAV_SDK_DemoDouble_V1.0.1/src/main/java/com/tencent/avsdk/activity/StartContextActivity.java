@@ -132,7 +132,7 @@ public class StartContextActivity extends ListActivity {
 		switch (id) {
 		case DIALOG_LOGIN:
 			dialog = mDialogLogin = Util.newProgressDialog(this,
-					R.string.at_login);
+                R.string.at_login);
 			break;
 
 		case DIALOG_LOGOUT:
@@ -216,7 +216,7 @@ public class StartContextActivity extends ListActivity {
 			public void run() {
 
 				Util.switchWaitingDialog(ctx, mDialogLogin, DIALOG_LOGIN,
-						mQavsdkControl.getIsInStartContext());
+                        mQavsdkControl.getIsInStartContext());
 				Util.switchWaitingDialog(ctx, mDialogLogout, DIALOG_LOGOUT,
 						mQavsdkControl.getIsInCloseContext());		
 			}

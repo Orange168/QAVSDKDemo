@@ -189,6 +189,29 @@ public class CreateRoomActivity extends Activity implements OnClickListener {
 		findViewById(R.id.accept_audio).setOnClickListener(this);
 		findViewById(R.id.accept_video).setOnClickListener(this);
 		findViewById(R.id.joinButton).setOnClickListener(this);
+
+		initReceiver();
+		mQavsdkControl = ((QavsdkApplication) getApplication())
+				.getQavsdkControl();
+
+		int QQListIndex = getIntent()
+				.getIntExtra(Util.EXTRA_QQ_LIST_INDEX, -1);
+
+		if (QQListIndex != -1 && mQavsdkControl.getAVContext() != null) {
+			TextView login = (TextView) findViewById(R.id.login);
+			login.setText(Util.getQQList(this).get(QQListIndex));
+			mSelfIdentifier = Util.getIdentifierList(this).get(QQListIndex);
+		} else {
+			finish();
+		}
+		Log.e(TAG, "=Test=WL_DEBUG CreateRoomActivity onCreate");
+
+	}
+
+	/**
+	 * 初始化接受的广播
+	 */
+	private void initReceiver() {
 		IntentFilter intentFilter = new IntentFilter();
 		intentFilter.addAction(Util.ACTION_ACCEPT_COMPLETE);
 		intentFilter.addAction(Util.ACTION_CLOSE_ROOM_COMPLETE);
@@ -201,21 +224,6 @@ public class CreateRoomActivity extends Activity implements OnClickListener {
 		intentFilter.addAction(Util.ACTION_ROOM_CREATE_COMPLETE);
 		intentFilter.addAction(Util.ACTION_ROOM_JOIN_COMPLETE);
 		registerReceiver(mBroadcastReceiver, intentFilter);
-
-		int QQListIndex = getIntent()
-				.getIntExtra(Util.EXTRA_QQ_LIST_INDEX, -1);
-		mQavsdkControl = ((QavsdkApplication) getApplication())
-				.getQavsdkControl();
-
-		if (QQListIndex != -1 && mQavsdkControl.getAVContext() != null) {
-			TextView login = (TextView) findViewById(R.id.login);
-			login.setText(Util.getQQList(this).get(QQListIndex));
-			mSelfIdentifier = Util.getIdentifierList(this).get(QQListIndex);
-		} else {
-			finish();
-		}
-		Log.e(TAG, "=Test=WL_DEBUG CreateRoomActivity onCreate");
-
 	}
 
 	@Override

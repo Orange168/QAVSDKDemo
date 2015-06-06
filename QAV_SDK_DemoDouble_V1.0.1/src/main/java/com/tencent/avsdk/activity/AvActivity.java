@@ -173,17 +173,7 @@ public class AvActivity extends Activity implements OnClickListener {
 		findViewById(R.id.qav_bottombar_switchcamera).setOnClickListener(this);
 
 		// 注册广播
-		IntentFilter intentFilter = new IntentFilter();
-		intentFilter.addAction(Util.ACTION_SURFACE_CREATED);
-		intentFilter.addAction(Util.ACTION_ENABLE_CAMERA_COMPLETE);
-		intentFilter.addAction(Util.ACTION_SWITCH_CAMERA_COMPLETE);
-		intentFilter.addAction(Util.ACTION_OUTPUT_MODE_CHANGE);
-		intentFilter.addAction(Util.ACTION_PEER_LEAVE);
-		intentFilter.addAction(Util.ACTION_PEER_CAMERA_OPEN);
-		intentFilter.addAction(Util.ACTION_PEER_CAMERA_CLOSE);	
-		intentFilter.addAction(Util.ACTION_PEER_MIC_OPEN);
-		intentFilter.addAction(Util.ACTION_PEER_MIC_CLOSE);				
-		registerReceiver(mBroadcastReceiver, intentFilter);
+		initReceiver();
 
 		showDialog(DIALOG_INIT);
 
@@ -203,6 +193,19 @@ public class AvActivity extends Activity implements OnClickListener {
 
 	}
 
+	private void initReceiver() {
+		IntentFilter intentFilter = new IntentFilter();
+		intentFilter.addAction(Util.ACTION_SURFACE_CREATED);
+		intentFilter.addAction(Util.ACTION_ENABLE_CAMERA_COMPLETE);
+		intentFilter.addAction(Util.ACTION_SWITCH_CAMERA_COMPLETE);
+		intentFilter.addAction(Util.ACTION_OUTPUT_MODE_CHANGE);
+		intentFilter.addAction(Util.ACTION_PEER_LEAVE);
+		intentFilter.addAction(Util.ACTION_PEER_CAMERA_OPEN);
+		intentFilter.addAction(Util.ACTION_PEER_CAMERA_CLOSE);
+		intentFilter.addAction(Util.ACTION_PEER_MIC_OPEN);
+		intentFilter.addAction(Util.ACTION_PEER_MIC_CLOSE);
+		registerReceiver(mBroadcastReceiver, intentFilter);
+	}
 
 
 	@Override
@@ -250,7 +253,8 @@ public class AvActivity extends Activity implements OnClickListener {
 	public void onClick(View v) {
 		switch (v.getId()) {
 		case R.id.qav_bottombar_handfree:
-			mQavsdkControl.getAVContext().getAudioCtrl().setAudioOutputMode(mQavsdkControl.getHandfreeChecked() ? AVAudioCtrl.OUTPUT_MODE_SPEAKER : AVAudioCtrl.OUTPUT_MODE_HEADSET);
+			mQavsdkControl.getAVContext().getAudioCtrl().setAudioOutputMode(
+					mQavsdkControl.getHandfreeChecked() ? AVAudioCtrl.OUTPUT_MODE_SPEAKER : AVAudioCtrl.OUTPUT_MODE_HEADSET);
 			break;
 		case R.id.qav_bottombar_mute:
 			mMuteCheckable.toggle();

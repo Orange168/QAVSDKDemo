@@ -14,59 +14,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="294fedea-d3c5-451b-b1e3-a8ac240f3b7c" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/easemob_chatUIDemo/src/main/java/anl/AnalBusiness.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/easemob_chatUIDemo/src/main/java/anl/AnalBusinessImp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/easemob_chatUIDemo/src/main/java/observer/ConcreteWatched.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/easemob_chatUIDemo/src/main/java/observer/CustomeWatcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/util/DebugLog.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/api/av/IIAudioVideo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/LoadingActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/ui/acount/LoginActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/easemob_chatUIDemo/src/main/java/anl/QQOperation.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/easemob_chatUIDemo/src/main/java/observer/Test.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/easemob_chatUIDemo/src/main/java/observer/Watched.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/easemob_chatUIDemo/src/main/java/observer/Watcher.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YXB/YXB.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/easemob_chatUIDemo/src/main/java/anl/anal.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/anl_base_1_1_2.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/baidumapapi_v3_2_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/easemobchat_2_1_9.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/locSDK_3_3.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/picasso_2_4_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_annotations_20_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_19_1_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/support_v4_20_0_0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/umeng_analytics_v5_2_4.xml" />
-      <change type="DELETED" beforePath="D:\work\android-studio-project\QAVSDKDemoDouble1.0.1\gradlew.bat" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/api/av/IQQAudioVideo.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/api/av/StartContextActivity.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YXB/src/main/res/layout/activity_start_context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/YXB/src/main/res/menu/menu_start_context.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/cache.properties.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/outputFileStates.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.4/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVAudioControl.java" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVAudioControl.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVContextControl.java" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVContextControl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVInvitationControl.java" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVInvitationControl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVRoomControl.java" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVRoomControl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVUIControl.java" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVUIControl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVVideoControl.java" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVVideoControl.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/AddNewQQActivity.java" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/AddNewQQActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YXB/src/main/AndroidManifest.xml" afterPath="$PROJECT_DIR$/YXB/src/main/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/AvActivity.java" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/AvActivity.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/CreateRoomActivity.java" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/CreateRoomActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/QAV_SDK_DemoDouble_V1.0.1.iml" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/QAV_SDK_DemoDouble_V1.0.1.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/QavsdkApplication.java" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/QavsdkApplication.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/api/av/IIAudioVideo.java" afterPath="$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/api/av/IIAudioVideo.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/StartContextActivity.java" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/StartContextActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/av_activity.xml" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/av_activity.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/build.gradle" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/build.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/create_room_activity.xml" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/create_room_activity.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/settings.gradle" afterPath="$PROJECT_DIR$/settings.gradle" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YXB/YXB.iml" afterPath="$PROJECT_DIR$/YXB/YXB.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/YXB/src/main/res/values/strings.xml" afterPath="$PROJECT_DIR$/YXB/src/main/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MOVED" beforePath="D:\work\android-studio-project\QAVSDKDemoDouble1.0.1\QAV_SDK_DemoDouble_V1.0.1\src\main\java\com\tencent\avsdk\LogcatHelper.java" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/util/LogcatHelper.java" />
-      <change type="MOVED" beforePath="D:\work\android-studio-project\QAVSDKDemoDouble1.0.1\QAV_SDK_DemoDouble_V1.0.1\src\main\java\com\tencent\avsdk\Util.java" afterPath="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/util/Util.java" />
     </list>
     <ignored path="QAVSDKDemoDouble1.0.1.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -94,105 +62,15 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="StartContextActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/StartContextActivity.java">
+      <file leaf-file-name="AvActivity.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/AvActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-10.766666">
-              <caret line="113" column="49" selection-start-line="113" selection-start-column="49" selection-end-line="113" selection-end-column="49" />
+            <state vertical-scroll-proportion="1.043956">
+              <caret line="469" column="5" selection-start-line="469" selection-start-column="5" selection-end-line="469" selection-end-column="5" />
               <folding>
-                <element signature="e#1602#2596#0" expanded="true" />
-                <element signature="e#2595#2596#0" expanded="true" />
-                <element signature="e#4485#4502#0" expanded="true" />
-                <element signature="e#4600#4618#0" expanded="true" />
-                <element signature="e#6113#6396#0" expanded="true" />
-                <element signature="e#6395#6396#0" expanded="true" />
+                <element signature="e#3273#6673#0" expanded="true" />
+                <element signature="e#6672#6673#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="QavsdkControl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/QavsdkControl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AVContextControl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVContextControl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="AVContext.class" pinned="false" current-in-tab="false">
-        <entry file="jar://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/libs/qavsdk.jar!/com/tencent/av/sdk/AVContext.class">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.821428">
-              <caret line="159" column="5" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="add_new_qq_activity.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/add_new_qq_activity.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.0">
-              <caret line="15" column="47" selection-start-line="15" selection-start-column="47" selection-end-line="15" selection-end-column="47" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="create_room_activity.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/create_room_activity.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.0">
-              <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
-              <folding />
-            </state>
-          </provider>
-          <provider editor-type-id="android-designer">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="LoginActivity.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/ui/acount/LoginActivity.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IIAudioVideo.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/api/av/IIAudioVideo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.3409091">
-              <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Util.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/util/Util.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="92" column="65" selection-start-line="92" selection-start-column="65" selection-end-line="92" selection-end-column="65" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -200,13 +78,99 @@
       <file leaf-file-name="av_activity.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/av_activity.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-8.666667">
-              <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="50" />
+            <state vertical-scroll-proportion="-9.333333">
+              <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding />
             </state>
           </provider>
           <provider editor-type-id="android-designer">
             <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StartContextActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/api/av/StartContextActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="qav_video_layer_ui.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/qav_video_layer_ui.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.3333334">
+              <caret line="2" column="75" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="android-designer">
+            <state />
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IIAudioVideo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/api/av/IIAudioVideo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CreateRoomActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/CreateRoomActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="404" column="34" selection-start-line="404" selection-start-column="34" selection-end-line="404" selection-end-column="34" />
+              <folding>
+                <element signature="e#3225#6873#0" expanded="true" />
+                <element signature="e#6872#6873#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QavsdkApplication.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/QavsdkApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="IQQAudioVideo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/api/av/IQQAudioVideo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginActivity.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/ui/acount/LoginActivity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyDate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/MyDate.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
           </provider>
         </entry>
       </file>
@@ -215,8 +179,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -2920,8 +2884,6 @@
         <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/QAV_SDK_DemoDouble_V1.0.1.iml" />
         <option value="$PROJECT_DIR$/local.properties" />
         <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/qav_bottom_bar.xml" />
-        <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVContextControl.java" />
         <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/build.gradle" />
         <option value="$PROJECT_DIR$/easemob_chatUIDemo/build.gradle" />
         <option value="$PROJECT_DIR$/easemob_chatUIDemo/src/main/java/observer/Watcher.java" />
@@ -2933,10 +2895,7 @@
         <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/Util.java" />
         <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/util/DebugLog.java" />
         <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/QavsdkApplication.java" />
-        <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/av_activity.xml" />
         <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/create_room_activity.xml" />
-        <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/CreateRoomActivity.java" />
-        <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/StartContextActivity.java" />
         <option value="$PROJECT_DIR$/easemob_chatUIDemo/src/main/java/anal.java" />
         <option value="$PROJECT_DIR$/easemob_chatUIDemo/src/main/java/anl/analDo.java" />
         <option value="$PROJECT_DIR$/easemob_chatUIDemo/src/main/java/anl/PorxyAV.java" />
@@ -2946,8 +2905,17 @@
         <option value="$PROJECT_DIR$/easemob_chatUIDemo/src/main/java/anl/AnalBusiness.java" />
         <option value="$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/service/IAVService/IAVService.java" />
         <option value="$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/service/IAVService/IQAVService.java" />
-        <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/AvActivity.java" />
         <option value="$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/service/IAVService/IIAVService.java" />
+        <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/CreateRoomActivity.java" />
+        <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/av_activity.xml" />
+        <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/AvActivity.java" />
+        <option value="$PROJECT_DIR$/YXB/src/main/res/layout/activity_start_context.xml" />
+        <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVContextControl.java" />
+        <option value="$PROJECT_DIR$/YXB/src/main/AndroidManifest.xml" />
+        <option value="$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/api/av/StartContextActivity.java" />
+        <option value="$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/api/av/IQQAudioVideo.java" />
+        <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/StartContextActivity.java" />
+        <option value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/api/av/IIAudioVideo.java" />
       </list>
     </option>
@@ -2993,7 +2961,7 @@
         </expanded-state>
         <selected-state>
           <State>
-            <id>Android</id>
+            <id>AndroidDomInspection</id>
           </State>
         </selected-state>
       </profile-state>
@@ -3022,7 +2990,89 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="AndroidView">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QAVSDKDemoDouble1.0.1" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QAVSDKDemoDouble1.0.1" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="easemob_chatUIDemo" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QAVSDKDemoDouble1.0.1" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QAV_SDK_DemoDouble_V1.0.1" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QAVSDKDemoDouble1.0.1" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QAV_SDK_DemoDouble_V1.0.1" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="manifests" />
+              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QAVSDKDemoDouble1.0.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="External Libraries" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QAVSDKDemoDouble1.0.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QAVSDKDemoDouble1.0.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scratches" />
+      <pane id="PackagesPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QAVSDKDemoDouble1.0.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="QAV_SDK_DemoDouble_V1.0.1" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
       <pane id="Scope">
         <subPane subId="Production">
           <PATH>
@@ -3105,132 +3155,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="AndroidView">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QAVSDKDemoDouble1.0.1" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QAVSDKDemoDouble1.0.1" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YXB" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="res" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidResFolderNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QAVSDKDemoDouble1.0.1" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YXB" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wxb" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QAVSDKDemoDouble1.0.1" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YXB" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="java" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidSourceTypeNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="wxb" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidPsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="av" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QAVSDKDemoDouble1.0.1" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="YXB" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="manifests" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidManifestsGroupNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QAVSDKDemoDouble1.0.1" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QAV_SDK_DemoDouble_V1.0.1" />
-              <option name="myItemType" value="com.android.tools.idea.navigator.nodes.AndroidModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="PackagesPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QAVSDKDemoDouble1.0.1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QAV_SDK_DemoDouble_V1.0.1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
-      <pane id="ProjectPane">
-        <subPane>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QAVSDKDemoDouble1.0.1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QAVSDKDemoDouble1.0.1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="QAVSDKDemoDouble1.0.1" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-        </subPane>
-      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -3240,12 +3164,12 @@
     <property name="android.project.structure.last.selected" value="QAV_SDK_DemoDouble_V1.0.1" />
     <property name="android.project.structure.proportion" value="0.15" />
     <property name="recentsLimit" value="5" />
-    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="BY2XEE1555124015" />
+    <property name="ANDROID_EXTENDED_DEVICE_CHOOSER_SERIALS" value="20080411" />
     <property name="FullScreen" value="false" />
     <property name="DEBUGGABLE_DEVICE" value="huawei-chm_tl00h-BY2XEE1555124015" />
     <property name="DEBUGGABLE_PROCESS" value="com.tencent.avsdk" />
     <property name="SHOW_ALL_PROCESSES" value="false" />
-    <property name="SearchEverywhereHistoryKey" value="II&#9;FILE&#9;file://D:/work/android-studio-project/QAVSDKDemoDouble1.0.1/YXB/src/main/java/com/anl/phone/wxb/api/av/IIAudioVideo.java&#10;star&#9;FILE&#9;file://D:/work/android-studio-project/QAVSDKDemoDouble1.0.1/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/StartContextActivity.java&#10;cre&#9;FILE&#9;file://D:/work/android-studio-project/QAVSDKDemoDouble1.0.1/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/CreateRoomActivity.java&#10;c&#9;FILE&#9;file://D:/work/android-studio-project/QAVSDKDemoDouble1.0.1/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/CreateRoomActivity.java&#10;av&#9;FILE&#9;file://D:/work/android-studio-project/QAVSDKDemoDouble1.0.1/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/AvActivity.java&#10;he&#9;FILE&#9;file://D:/work/android-studio-project/QAVSDKDemoDouble1.0.1/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/LogcatHelper.java&#10;helper&#9;FILE&#9;file://D:/work/android-studio-project/QAVSDKDemoDouble1.0.1/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/LogcatHelper.java" />
+    <property name="SearchEverywhereHistoryKey" value="start&#9;FILE&#9;file://D:/work/android-studio-project/QAVSDKDemoDouble1.0.1/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/StartContextActivity.java&#10;av&#9;FILE&#9;file://D:/work/android-studio-project/QAVSDKDemoDouble1.0.1/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/AvActivity.java&#10;av_&#9;FILE&#9;file://D:/work/android-studio-project/QAVSDKDemoDouble1.0.1/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/qav_bottom_bar.xml&#10;AvA&#9;FILE&#9;file://D:/work/android-studio-project/QAVSDKDemoDouble1.0.1/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/AvActivity.java&#10;Ava&#9;FILE&#9;file://D:/work/android-studio-project/QAVSDKDemoDouble1.0.1/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/av_activity.xml&#10;II&#9;FILE&#9;file://D:/work/android-studio-project/QAVSDKDemoDouble1.0.1/YXB/src/main/java/com/anl/phone/wxb/api/av/IIAudioVideo.java&#10;cre&#9;FILE&#9;file://D:/work/android-studio-project/QAVSDKDemoDouble1.0.1/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/CreateRoomActivity.java&#10;c&#9;FILE&#9;file://D:/work/android-studio-project/QAVSDKDemoDouble1.0.1/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/CreateRoomActivity.java&#10;star&#9;FILE&#9;file://D:/work/android-studio-project/QAVSDKDemoDouble1.0.1/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/StartContextActivity.java&#10;he&#9;FILE&#9;file://D:/work/android-studio-project/QAVSDKDemoDouble1.0.1/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/LogcatHelper.java&#10;helper&#9;FILE&#9;file://D:/work/android-studio-project/QAVSDKDemoDouble1.0.1/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/LogcatHelper.java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="OverrideImplement.overriding.sorted" value="false" />
@@ -3255,11 +3179,17 @@
     <key name="CreateClassDialog.RecentsKey">
       <recent name="observer" />
     </key>
+    <key name="android.template.packageName">
+      <recent name="com.anl.phone.wxb.api.av" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\work\android-studio-project\QAVSDKDemoDouble1.0.1\YXB\src\main\java" />
     </key>
+    <key name="android.template.parentActivityClass">
+      <recent name="" />
+    </key>
   </component>
-  <component name="RunManager" selected="Android Application.YXB">
+  <component name="RunManager" selected="Android Application.QAV_SDK_DemoDouble_V1.0.1">
     <configuration default="false" name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
@@ -3536,8 +3466,8 @@
       <item index="0" class="java.lang.String" itemvalue="Android Application.app" />
       <item index="1" class="java.lang.String" itemvalue="Android Application.QAV_SDK_DemoDouble_V1.0.1" />
       <item index="2" class="java.lang.String" itemvalue="Android Application.easemob_chatUIDemo" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="4" class="java.lang.String" itemvalue="Android Application.YXB" />
+      <item index="3" class="java.lang.String" itemvalue="Android Application.YXB" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Test" />
     </list>
     <recent_temporary>
       <list size="1">
@@ -3581,7 +3511,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
-    <editor active="true" />
+    <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -3592,52 +3522,53 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33635396" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.56765676" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.56765676" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3336887" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4411441" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2185501" sideWeight="0.48425198" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20149253" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16577825" sideWeight="0.515748" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2618262" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2618262" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
     <layout-to-restore>
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4411441" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.20149253" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32967034" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2618262" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33635396" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.56765676" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3336887" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4411441" sideWeight="0.4978678" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="true" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2185501" sideWeight="0.48425198" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32893288" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.16577825" sideWeight="0.515748" order="5" side_tool="true" content_ui="tabs" />
     </layout-to-restore>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -3662,19 +3593,19 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVContextControl.java</url>
-          <line>80</line>
+          <line>81</line>
           <properties />
           <option name="timeStamp" value="28" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVContextControl.java</url>
-          <line>180</line>
+          <line>181</line>
           <properties />
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVContextControl.java</url>
-          <line>185</line>
+          <line>186</line>
           <properties />
           <option name="timeStamp" value="32" />
         </line-breakpoint>
@@ -3689,82 +3620,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$PROJECT_DIR$/../../android/android-sdk/platforms/android-16/android.jar!/android/widget/LinearLayout.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24271844">
-          <caret line="23" column="50" selection-start-line="23" selection-start-column="50" selection-end-line="23" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/qav_bottom_bar.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.34117648">
-          <caret line="62" column="50" selection-start-line="62" selection-start-column="50" selection-end-line="62" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/values/strings.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.31083843">
-          <caret line="39" column="40" selection-start-line="39" selection-start-column="40" selection-end-line="39" selection-end-column="40" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../android/android-sdk/platforms/android-16/android.jar!/android/app/Activity.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.24295011">
-          <caret line="760" column="0" selection-start-line="760" selection-start-column="0" selection-end-line="760" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/libs/imsdk.jar!/com/tencent/openqq/IMUserId.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35173824">
-          <caret line="15" column="11" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/libs/imsdk.jar!/com/tencent/imsdk/IMMsfCoreProxy.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.49079755">
-          <caret line="71" column="22" selection-start-line="71" selection-start-column="22" selection-end-line="71" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/libs/imsdk.jar!/com/tencent/TIMManager.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.35173824">
-          <caret line="50" column="16" selection-start-line="50" selection-start-column="16" selection-end-line="50" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easemob_chatUIDemo/src/main/res/drawable-hdpi/tab_unread_bg.9.png">
-      <provider selected="true" editor-type-id="ninepatcheditor">
-        <state />
-      </provider>
-      <provider editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easemob_chatUIDemo/src/main/java/com/easemob/applib/model/HXNotifier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="48" selection-start-line="29" selection-start-column="30" selection-end-line="29" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/easemob_chatUIDemo/src/main/java/observer/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="38" selection-start-line="6" selection-start-column="38" selection-end-line="6" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/easemob_chatUIDemo/src/main/java/com/easemob/chatuidemo/utils/PreferenceUtils.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3784091">
@@ -3854,13 +3709,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="82" column="17" selection-start-line="82" selection-start-column="17" selection-end-line="82" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#616#617#0" expanded="false" />
-            <element signature="e#665#666#0" expanded="false" />
-            <element signature="e#2046#2047#0" expanded="false" />
-            <element signature="e#2071#2072#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3868,45 +3716,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-          <folding>
-            <element signature="e#1394#1395#0" expanded="false" />
-            <element signature="e#1456#1457#0" expanded="false" />
-            <element signature="e#2596#2597#0" expanded="false" />
-            <element signature="e#2656#2657#0" expanded="false" />
-            <element signature="e#3618#3619#0" expanded="false" />
-            <element signature="e#3677#3678#0" expanded="false" />
-            <element signature="e#4634#4635#0" expanded="false" />
-            <element signature="e#4693#4694#0" expanded="false" />
-            <element signature="e#6053#6054#0" expanded="false" />
-            <element signature="e#6113#6114#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/MyDate.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="21" column="1" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/MyCheckable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="4" column="33" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="33" />
-          <folding>
-            <element signature="e#177#178#0" expanded="false" />
-            <element signature="e#195#196#0" expanded="false" />
-            <element signature="e#235#236#0" expanded="false" />
-            <element signature="e#260#261#0" expanded="false" />
-            <element signature="e#302#303#0" expanded="false" />
-            <element signature="e#324#325#0" expanded="false" />
-            <element signature="e#496#497#0" expanded="false" />
-            <element signature="e#529#530#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3922,7 +3731,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="47" column="3" selection-start-line="47" selection-start-column="3" selection-end-line="47" selection-end-column="3" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3930,15 +3738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/AndroidManifest.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="36" column="44" selection-start-line="36" selection-start-column="44" selection-end-line="36" selection-end-column="44" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3946,7 +3745,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3954,15 +3752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="9" column="22" selection-start-line="9" selection-start-column="22" selection-end-line="9" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/QavsdkApplication.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3970,7 +3759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3978,14 +3766,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding>
-            <element signature="e#222#223#0" expanded="true" />
-            <element signature="e#261#262#0" expanded="true" />
-            <element signature="e#306#307#0" expanded="true" />
-            <element signature="e#345#346#0" expanded="true" />
-            <element signature="e#386#387#0" expanded="true" />
-            <element signature="e#421#422#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -3993,36 +3773,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/AddNewQQActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.045454547">
-          <caret line="13" column="31" selection-start-line="13" selection-start-column="31" selection-end-line="13" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/CreateRoomActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33295456">
-          <caret line="470" column="42" selection-start-line="470" selection-start-column="42" selection-end-line="470" selection-end-column="42" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="method#onPause#0;class#CreateRoomActivity#0" expanded="false" />
-            <element signature="method#onResume#0;class#CreateRoomActivity#0" expanded="false" />
-            <element signature="method#onDestroy#0;class#CreateRoomActivity#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/AvActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3556818">
-          <caret line="277" column="16" selection-start-line="277" selection-start-column="16" selection-end-line="277" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4030,7 +3780,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.3556818">
           <caret line="63" column="16" selection-start-line="63" selection-start-column="16" selection-end-line="63" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -4045,21 +3794,17 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/av_activity.xml">
+    <entry file="jar://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/libs/qavsdk.jar!/com/tencent/av/sdk/AVContext.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-8.666667">
-          <caret line="13" column="2" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="50" />
-          <folding />
+        <state vertical-scroll-proportion="-11.821428">
+          <caret line="159" column="5" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/create_room_activity.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.0">
-          <caret line="70" column="17" selection-start-line="70" selection-start-column="17" selection-end-line="70" selection-end-column="17" />
+        <state vertical-scroll-proportion="-9.433333">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
           <folding />
         </state>
       </provider>
@@ -4067,33 +3812,208 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/util/Util.java">
+    <entry file="file://$PROJECT_DIR$/../../android/android-sdk/sources/android-21/android/widget/Button.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="92" column="65" selection-start-line="92" selection-start-column="65" selection-end-line="92" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/StartContextActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-10.766666">
-          <caret line="113" column="49" selection-start-line="113" selection-start-column="49" selection-end-line="113" selection-end-column="49" />
-          <folding>
-            <element signature="e#1602#2596#0" expanded="true" />
-            <element signature="e#2595#2596#0" expanded="true" />
-            <element signature="e#4485#4502#0" expanded="true" />
-            <element signature="e#4600#4618#0" expanded="true" />
-            <element signature="e#6113#6396#0" expanded="true" />
-            <element signature="e#6395#6396#0" expanded="true" />
-          </folding>
+          <caret line="96" column="13" selection-start-line="96" selection-start-column="13" selection-end-line="96" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/QavsdkControl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="45" column="42" selection-start-line="45" selection-start-column="42" selection-end-line="45" selection-end-column="42" />
+          <caret line="201" column="28" selection-start-line="201" selection-start-column="28" selection-end-line="201" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/values/strings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-6.571429">
+          <caret line="42" column="18" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/LoadingActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="42" selection-start-line="14" selection-start-column="42" selection-end-line="14" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YXB/src/main/res/layout/activity_loading.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.0">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="17" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YXB/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="24" column="67" selection-start-line="24" selection-start-column="67" selection-end-line="24" selection-end-column="67" />
+          <folding>
+            <element signature="e#1938#1956#0" expanded="false" />
+            <element signature="e#2115#2133#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YXB/src/main/res/layout/activity_start_context.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3764706">
+          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVContextControl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="34" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/util/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="312" column="30" selection-start-line="312" selection-start-column="30" selection-end-line="312" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/MyCheckable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4090909">
+          <caret line="24" column="31" selection-start-line="24" selection-start-column="31" selection-end-line="24" selection-end-column="31" />
+          <folding>
+            <element signature="e#565#566#0" expanded="false" />
+            <element signature="e#593#594#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/AddNewQQActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/StartContextActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="127" column="13" selection-start-line="127" selection-start-column="13" selection-end-line="127" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/AndroidManifest.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="34" column="42" selection-start-line="34" selection-start-column="42" selection-end-line="34" selection-end-column="42" />
+          <folding>
+            <element signature="e#2717#2737#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/qav_bottom_bar.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.433333">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/api/av/IIAudioVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="20" column="7" selection-start-line="20" selection-start-column="7" selection-end-line="20" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/CreateRoomActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="404" column="34" selection-start-line="404" selection-start-column="34" selection-end-line="404" selection-end-column="34" />
+          <folding>
+            <element signature="e#3225#6873#0" expanded="true" />
+            <element signature="e#6872#6873#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/QavsdkApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/MyDate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="1" column="0" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/libs/qavsdk.jar!/com/tencent/av/opengl/ui/GLRootView.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.11737089">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/qav_video_layer_ui.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.3333334">
+          <caret line="2" column="75" selection-start-line="2" selection-start-column="75" selection-end-line="2" selection-end-column="75" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/res/layout/av_activity.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.333333">
+          <caret line="14" column="0" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/api/av/StartContextActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/api/av/IQQAudioVideo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -4101,32 +4021,19 @@
     <entry file="file://$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/ui/acount/LoginActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/control/AVContextControl.java">
+    <entry file="file://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/src/main/java/com/tencent/avsdk/activity/AvActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="26" column="25" selection-start-line="26" selection-start-column="25" selection-end-line="26" selection-end-column="25" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/QAV_SDK_DemoDouble_V1.0.1/libs/qavsdk.jar!/com/tencent/av/sdk/AVContext.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.821428">
-          <caret line="159" column="5" selection-start-line="159" selection-start-column="5" selection-end-line="159" selection-end-column="5" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/YXB/src/main/java/com/anl/phone/wxb/api/av/IIAudioVideo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.3409091">
-          <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-          <folding />
+        <state vertical-scroll-proportion="1.043956">
+          <caret line="469" column="5" selection-start-line="469" selection-start-column="5" selection-end-line="469" selection-end-column="5" />
+          <folding>
+            <element signature="e#3273#6673#0" expanded="true" />
+            <element signature="e#6672#6673#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
